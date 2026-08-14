@@ -1,0 +1,1 @@
+const Button=document.querySelector('button'),Header=document.querySelector('header');Button.addEventListener('click',()=>Header.classList.toggle('open'));document.querySelectorAll('nav a').forEach(Link=>Link.addEventListener('click',()=>Header.classList.remove('open')));

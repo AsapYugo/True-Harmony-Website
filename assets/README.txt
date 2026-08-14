@@ -1,0 +1,1 @@
+Hier logo.jpg und party.jpg ablegen.
